@@ -50,4 +50,12 @@ print(555/5)
 #26
 print("liam"*20)
 #27
-print("liam\n*10)
+print("liam\n*10")
+#28
+print("5+10=" + str(5+10))
+#29
+print("15/2=" + str(7//5))
+#30
+print("30/2=" + str(75//0))
+#31
+print("30/2*5=75")
