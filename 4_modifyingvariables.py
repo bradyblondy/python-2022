@@ -1,8 +1,9 @@
 money = 200
 hat = 20
-pants = 30
+pants = 60
 belt = 15
 shoes = 40
+top = 30
 print(money)
 Print("buying a hat")
 money = money - hat
